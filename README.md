@@ -1,5 +1,4 @@
-# Wahyu's Portfolio
-# : Retail Sales Report
+# Data Analytics Portfolio : Retail Sales Report
 
 Project Overview
 A comprehensive data analysis and visualization project showcasing expertise in SQL and Tableau, completed within an impressive one-week timeframe. Leveraging Kaggle's retail dataset, this hypothetical project provides actionable insights for informed business decisions.
